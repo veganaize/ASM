@@ -15,14 +15,14 @@ includelib kernel32.lib
 .code
 start:
 
-    push -11  ;STD_OUTPUT_HANDLE
+    push -11      ;STD_OUTPUT_HANDLE
     call GetStdHandle
 
     push 0
     push 0
     push lengthof sGREETING
     push offset   sGREETING
-    push eax     ;hConsoleOutput
+    push eax      ;hConsoleOutput
     call WriteConsoleA
 
     push 0
