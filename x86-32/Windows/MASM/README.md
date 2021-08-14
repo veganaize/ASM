@@ -10,3 +10,5 @@ ml /coff filename.asm /link /subsystem:windows
 
 * [MASM Programmer's Guide](http://staffwww.fullcoll.edu/zding/fc241/files/MASM61PROGUIDE.pdf) (PDF)
 * [MASM 6.15](https://archive.org/download/vcpp5/vcpp5.exe) (SSE2 support)
+* [Windows 95 DDK](https://winworldpc.com/download/3d026713-18c3-9a11-c3a4-e284a2c3a570) (link.exe)
+* [NT4 SDK](https://winworldpc.com/download/3d03c2ad-c2ad-18c3-9a11-c3a4e284a2ef) (1996)
