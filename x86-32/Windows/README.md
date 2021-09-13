@@ -1,2 +1,6 @@
+## Tutorials
+* [Windows Assembly Programming Tutorial (Jeff Huang)](https://doc.lagout.org/operating%20system%20/Windows/winasmtut.pdf)
 * [theForger's Win32 API tutorial](http://www.winprog.org/tutorial/)
-* [Win32.chm](http://laurencejackson.com/win32/) (NT4-era API reference)
+
+## Reference
+* [Windows NT API Reference (Win32.chm)](http://laurencejackson.com/win32/)
