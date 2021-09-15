@@ -1,18 +1,20 @@
-## Assemble & Link: Console Program ![](https://upload.wikimedia.org/wikipedia/en/e/ef/Command_prompt_icon_%28windows%29.png)
+## Assemble & Link
+MASM
 ```
-ml /coff filename.asm /link /subsystem:console
+ml /coff source.asm /link { /subsystem:console | /subsystem:windows }
 ```
-## Assemble & Link: Windows Program ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffiles.softicons.com%2Fdownload%2Fsystem-icons%2Ffold-icons-by-fredericorama%2Fpng%2F48%2Fwindows_flag.png)
+JWasm
 ```
-ml /coff filename.asm /link /subsystem:windows
+jwasm -coff file.asm
+jwlink format windows pe [ runtime windows ] file binary.obj
 ```
 ---
 
-* [MASM Programmer's Guide](http://staffwww.fullcoll.edu/zding/fc241/files/MASM61PROGUIDE.pdf) (PDF)
-* [MASM 6.15](https://archive.org/download/vcpp5/vcpp5.exe) (SSE2 support)
-* [Windows 95 DDK](https://winworldpc.com/download/3d026713-18c3-9a11-c3a4-e284a2c3a570) (link.exe)
-* [NT4 SDK](https://winworldpc.com/download/3d03c2ad-c2ad-18c3-9a11-c3a4e284a2ef) (1996)
-
+* [MASM ProGuide](http://staffwww.fullcoll.edu/zding/fc241/files/MASM61PROGUIDE.pdf) (PDF)
+* [ML.EXE](https://archive.org/download/vcpp5/vcpp5.exe) (MASM 6.15 w/ SSE2 support)
+* [LINK.EXE](https://virtuallyfun.com/wordpress/category/venixress/category/visual-c-toolkit-2003/) (Visual C++ 2003 Toolkit)
+* [Win32 libs](https://winworldpc.com/download/3d03c2ad-c2ad-18c3-9a11-c3a4e284a2ef) (NT4 SDK)
+* [JWasm](https://www.japheth.de/JWasm.html) (MASM compatible w/ AVX support)
 ---
 ## Videos ![](https://cdn1.iconfinder.com/data/icons/google_jfk_icons_by_carlosjj/32/youtube.png)
 1. Introduction to 32-bit (x86) MASM: https://youtu.be/q3wXjk0KnZ4
