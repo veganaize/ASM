@@ -6,3 +6,7 @@
 * [Optimization Reference Manual - Intel](https://software.intel.com/content/dam/develop/external/us/en/documents-tps/64-ia-32-architectures-optimization-manual.pdf)
 ---
 * [Assembly Language Design Guidelines](http://www.sourceformat.com/coding-standard-asm-assembly.htm)
+* [x86asm.net](http://x86asm.net/)
+  - [x86 Instruction Reference](http://ref.x86asm.net/index.html)
+  - [Articles](http://x86asm.net/articles/index.html)
+  
