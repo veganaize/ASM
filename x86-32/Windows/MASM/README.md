@@ -11,6 +11,7 @@ jwlink format windows pe [ runtime windows ] file binary.obj
 ---
 
 * [MASM ProGuide](http://staffwww.fullcoll.edu/zding/fc241/files/MASM61PROGUIDE.pdf) (PDF)
+* [MASM Wiki](https://wiki.osdev.org/MASM) - OSDev
 ---
 
 * [ML.EXE](https://archive.org/download/vcpp5/vcpp5.exe) (MASM 6.15 w/ SSE2 support)
