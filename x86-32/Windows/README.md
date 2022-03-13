@@ -4,3 +4,4 @@
 
 ## Reference
 * [Windows NT API Reference (Win32.chm)](http://laurencejackson.com/win32/)
+* [Win32 PE Format](https://docs.microsoft.com/en-us/windows/win32/debug/pe-format) - Microsoft
