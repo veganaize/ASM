@@ -5,3 +5,4 @@
 ## Reference
 * [Windows NT API Reference](http://laurencejackson.com/win32/) - (Win32.chm)
 * [Win32 PE Format](https://docs.microsoft.com/en-us/windows/win32/debug/pe-format) - Microsoft
+* [Calling Conventions](https://docs.microsoft.com/en-us/cpp/cpp/calling-conventions) - Microsoft
