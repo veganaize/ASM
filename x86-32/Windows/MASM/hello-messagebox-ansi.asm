@@ -10,15 +10,15 @@ includelib user32.lib
 
 
 .const
-    sGREETING byte "Hello MessageBox", 0
+    szGREETING byte "Hello MessageBox", 0
 
 
 .code
 start:
 
     push 0      ;MB_OK
-    push offset sGREETING
-    push offset sGREETING
+    push offset szGREETING
+    push offset szGREETING
     push 0      ;NULL
     call MessageBoxA
 

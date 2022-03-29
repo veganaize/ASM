@@ -10,15 +10,15 @@ includelib user32.lib
 
 
 .const
-    wsGREETING word 'H','e','l','l','o',' ','M','e','s','s','a','g','e','B','o','x', 0
+    wszGREETING word 'H','e','l','l','o',' ','M','e','s','s','a','g','e','B','o','x', 0
 
 
 .code
 start:
 
     push 0      ;MB_OK
-    push offset wsGREETING
-    push offset wsGREETING
+    push offset wszGREETING
+    push offset wszGREETING
     push 0      ;NULL
     call MessageBoxW
 
