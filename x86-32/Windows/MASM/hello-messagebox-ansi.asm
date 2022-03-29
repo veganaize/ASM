@@ -10,7 +10,7 @@ includelib user32.lib
 
 
 .const
-    sGREETING byte "Hello MessageBox"
+    sGREETING byte "Hello MessageBox", 0
 
 
 .code

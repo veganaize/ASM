@@ -10,7 +10,7 @@ includelib user32.lib
 
 
 .const
-    wsGREETING word 'H','e','l','l','o',' ','M','e','s','s','a','g','e','B','o','x'
+    wsGREETING word 'H','e','l','l','o',' ','M','e','s','s','a','g','e','B','o','x', 0
 
 
 .code
