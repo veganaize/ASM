@@ -1,6 +1,7 @@
 # ASM
 _Quick Refs_
 * [Common x86 Instructions](http://www.jegerlehner.ch/intel/IntelCodeTable.pdf)
+* [The Minimal 80x86 Instruction Set](https://www.plantation-productions.com/Webster/www.writegreatcode.com/Vol2/wgc2_OA.pdf) - Randall Hyde
 
 ---
 _Optimizations_
