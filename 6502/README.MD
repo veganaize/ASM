@@ -12,6 +12,10 @@
 
 ---
 
+* [Commodore 64 Programmer's Reference Guide](https://commodore.software/downloads?task=download.send&id=16041&catid=186&m=0)
+
+---
+
 * [Commander X16](https://github.com/commanderx16) - modern retro computer / emulator
 * [Commander X16](https://www.8bitcoding.com/p/commander-x16.html) - 8bitcoding.com
 * [X16 Assembly Language Tutorial](https://www.youtube.com/playlist?list=PLPSrOWYluVLIJ1n-TsVb-BESL1tkSTRI_) - slithy (youtube playlist)
