@@ -13,6 +13,7 @@
 ---
 
 * [Commodore 64 Programmer's Reference Guide](https://commodore.software/downloads?task=download.send&id=16041&catid=186&m=0)
+* [Commodore C64 Books](https://archive.org/details/commodore_c64_books) - archive.org
 
 ---
 
