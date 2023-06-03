@@ -19,6 +19,9 @@ jwlink format windows pe [ runtime windows ] file binary.obj
 * [Win32 libs](https://winworldpc.com/download/3d03c2ad-c2ad-18c3-9a11-c3a4e284a2ef) (NT4 SDK)
 ---
 
+* [Windows SDK 7.1](https://www.microsoft.com/en-us/download/details.aspx?id=8442) (MASM 10.0 w/ MSVC++ 16.0)
+---
+
 * [JWasm](https://www.japheth.de/JWasm.html) (MASM compatible w/ AVX support)
 * [JWlink](https://www.japheth.de/JWlink.html)
 * [WinInc](https://www.japheth.de/WinInc.html)
