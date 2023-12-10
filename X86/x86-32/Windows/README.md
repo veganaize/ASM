@@ -3,7 +3,7 @@
 * [Win32 API tutorial](http://www.winprog.org/tutorial/) - theForger
 
 ## Reference
-* [Windows NT API Reference](http://laurencejackson.com/win32/) - (Win32.chm)
+* [Windows NT API Reference](https://web.archive.org/web/20190512102726id_/http://laurencejackson.com/win32/Win32.chm) - (Win32.chm)
 * [Windows Data Types](https://docs.microsoft.com/en-us/windows/win32/winprog/windows-data-types) - Microsoft
 * [Win32 PE Format](https://docs.microsoft.com/en-us/windows/win32/debug/pe-format) - Microsoft
 * [Calling Conventions](https://docs.microsoft.com/en-us/cpp/cpp/calling-conventions) - Microsoft
