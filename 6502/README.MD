@@ -7,6 +7,7 @@
 * [WDC 65C02S Opcodes](https://www.pagetable.com/c64ref/6502/?cpu=65c02s) - Ultimate Commodore 64 Reference
 * [65C02 Instruction Reference](https://cx16.dk/65c02/reference.html) - cx16.dk
 * [Easy 6502](https://skilldrick.github.io/easy6502/) - skilldrick
+* [EOR #$FF: 6502 Ponderables and Befuddlements](https://ia904606.us.archive.org/26/items/eor6502/eorBookV1.0.1_ebookRelease.pdf) - david youd
 
 ---
 
