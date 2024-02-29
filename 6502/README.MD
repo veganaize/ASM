@@ -18,7 +18,7 @@
 * [C64 Assembler Tutorial](https://files.commodore.software/reference-material/articles-and-guides/commodore-64-articles/c64-assembler-tutorial.pdf) - cruzer/cml
 * [Commodore 64 Assembly Language Tutorial](https://files.commodore.software/reference-material/articles-and-guides/commodore-64-articles/assembler-tutor-10.pdf) - scatt
 * [6510 Assembly programming for the Commodore 64](https://www.chibiakumas.com/6502/c64.php) - chibiakumas
-* [Commodore 64 Programmer's Reference Guide](https://commodore.software/downloads?task=download.send&id=16041&catid=186&m=0)
+* [Commodore 64 Programmer's Reference Guide](https://www.devili.iki.fi/Computers/Commodore/C64/Programmers_Reference/page_iii.html) (html version)
 * [Commodore C64 Books](https://archive.org/details/commodore_c64_books) - archive.org
 * [Commodore 64 Guides (printable remakes)](https://pickledlight.blogspot.com/p/commodore-64-guides.html) - pickled light
 
