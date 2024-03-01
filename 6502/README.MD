@@ -21,6 +21,7 @@
 * [Commodore 64 Programmer's Reference Guide](https://www.devili.iki.fi/Computers/Commodore/C64/Programmers_Reference/page_iii.html) (html version)
 * [Commodore C64 Books](https://archive.org/details/commodore_c64_books) - archive.org
 * [Commodore 64 Guides (printable remakes)](https://pickledlight.blogspot.com/p/commodore-64-guides.html) - pickled light
+* [Switch out Kernal/Basic ROM](https://www.lemon64.com/forum/viewtopic.php?t=71173) - lemon64
 
 ---
 
