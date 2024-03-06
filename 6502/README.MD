@@ -23,7 +23,8 @@
 * [Commodore 64 Programmer's Reference Guide](https://www.devili.iki.fi/Computers/Commodore/C64/Programmers_Reference/page_iii.html) (html version)
 * [Commodore C64 Books](https://archive.org/details/commodore_c64_books) - archive.org
 * [Commodore 64 Guides (printable remakes)](https://pickledlight.blogspot.com/p/commodore-64-guides.html) - pickled light
-* [COMPUTE!'s GAZETTE - Complete Archive](https://archive.org/details/computes.gazette/Compute_Gazette_Issue_01_1983_Jul/) - archive.org
+* [COMPUTE!'s GAZETTE (complete archive)](https://archive.org/details/computes.gazette/Compute_Gazette_Issue_01_1983_Jul/) - archive.org
+* [COMPUTE's Gazette Disk (transcribed)](https://archive.org/details/cbm_magazine_index-gazette_disk_v2/gazette_disk/1994/gazette_disk-01-199401/) - archive.org
 * [Switch out Kernal/Basic ROM](https://www.lemon64.com/forum/viewtopic.php?t=71173) - lemon64
 
 ---
