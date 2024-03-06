@@ -2,7 +2,9 @@
 
 * [ca65 User's Guide](https://cc65.github.io/doc/ca65.html) - powerful macro assembler for the 6502, 65C02, and 65816 CPUs; companion assembler for [cc65](https://cc65.github.io/) crosscompiler
 * [6502 Assembly](https://en.wikibooks.org/wiki/6502_Assembly) - wikibook
-* [65C02 Opcodes](http://www.6502.org/tutorials/65c02opcodes.html) - instruction details and cycle times
+* [6502 Instruction Set](https://www.masswerk.at/6502/6502_instruction_set.html) - mass:werk
+* [6502 Opcodes](http://www.6502.org/tutorials/6502opcodes.html) - 6502.org
+* [65C02 Opcodes](http://www.6502.org/tutorials/65c02opcodes.html) - 6502.org
 * [65C02 Opcode matrix](http://www.oxyron.de/html/opcodesc02.html) - oxyron.de
 * [WDC 65C02S Opcodes](https://www.pagetable.com/c64ref/6502/?cpu=65c02s) - Ultimate Commodore 64 Reference
 * [65C02 Instruction Reference](https://cx16.dk/65c02/reference.html) - cx16.dk
