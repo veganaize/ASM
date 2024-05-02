@@ -2,6 +2,7 @@
 _Quick Refs_
 * [Common x86 Instructions](http://www.jegerlehner.ch/intel/IntelCodeTable.pdf)
 * [The Minimal 80x86 Instruction Set](https://www.plantation-productions.com/Webster/www.writegreatcode.com/Vol2/wgc2_OA.pdf) - Randall Hyde
+* [X86 Assembly Language](https://en.wikipedia.org/wiki/X86_assembly_language) - wikipedia
 * [X86 Assembly](https://en.wikibooks.org/wiki/X86_Assembly) - wikibook
 
 
