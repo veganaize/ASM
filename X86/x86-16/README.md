@@ -11,4 +11,8 @@ tools
 
 * [a86](http://eji.com/a86/) - assembler & debugger
 * [japheth](https://www.japheth.de/) - ([debug/x](https://www.japheth.de/debxxf.html) | [jwasm](https://www.japheth.de/JWasm.html) | [jwlink](https://www.japheth.de/JWlink.html))
-* [Microsoft linker for DOS](http://web.archive.org/web/20120315023048id_/http://download.microsoft.com/download/vc15/Update/1/WIN98/EN-US/Lnk563.exe)
+* masm
+  - [link 5.63](http://web.archive.org/web/20120315023048id_/http://download.microsoft.com/download/vc15/Update/1/WIN98/EN-US/Lnk563.exe) - 16-bit DOS linker
+  - masm 6.11d (`98ddk/bin/win98/ml.exe` after install)
+      - [98setup](http://web.archive.org/web/20010413193816id_/http://www.microsoft.com/ddk/download/98/98SETUP.EXE)
+      - [bins_ddk](http://web.archive.org/web/20030204011521id_/http://www.microsoft.com/ddk/download/98/BINS_DDK.EXE)
