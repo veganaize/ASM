@@ -12,10 +12,13 @@ tools
 * [a86](http://eji.com/a86/) - assembler & debugger
 * [japheth](https://www.japheth.de/) - ([debug/x](https://www.japheth.de/debxxf.html) | [jwasm](https://www.japheth.de/JWasm.html) | [jwlink](https://www.japheth.de/JWlink.html))
 * masm
-  - [link 5.63](http://web.archive.org/web/20120315023048id_/http://download.microsoft.com/download/vc15/Update/1/WIN98/EN-US/Lnk563.exe) - 16-bit DOS linker
-  - masm 6.11d (`98ddk/bin/win98/ml.exe` after install)
-      - [98setup](http://web.archive.org/web/20010413193816id_/http://www.microsoft.com/ddk/download/98/98SETUP.EXE)
-      - [bins_ddk](http://web.archive.org/web/20030204011521id_/http://www.microsoft.com/ddk/download/98/BINS_DDK.EXE)
+  - [link 5.60.339](http://web.archive.org/web/20120315023048id_/http://download.microsoft.com/download/vc15/Update/1/WIN98/EN-US/Lnk563.exe) - 16-bit DOS linker
+    1. Open `Lnk563.exe` archive with 7-Zip.
+    2. Extract at least `LINK.EXE`.
+  - [masm 6.11d](http://web.archive.org/web/20030204011521id_/http://www.microsoft.com/ddk/download/98/BINS_DDK.EXE)
+    1. Open `BINS_DDK.EXE` archive, and then `Bins_ddk.cab`, with 7-Zip.
+    2. Extract `BIN_WIN98_ML.*`, and rename to `ML.*`.
+  - [masm 6.1 documentation](http://bitsavers.informatik.uni-stuttgart.de/pdf/microsoft/masm/Microsoft_MASM_6.1_1992/)
 
 
 tutorials
