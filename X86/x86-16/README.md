@@ -23,3 +23,6 @@ tutorials
 
 * [guide to debug](https://thestarman.pcministry.com/asm/debug/debug.htm) - starman
 * [learn x86 asm](http://www.infinitefactors.org/jonk/x86lrn.html) - jonk
+* [removing mystery from segment : offset](https://thestarman.pcministry.com/asm/debug/Segments.html) - starman
+* [dos stub program](https://thestarman.pcministry.com/asm/debug/DOSstub.htm) - starman
+* [programming with dos debug](https://susam.net/programming-with-dos-debugger.html) - susam
