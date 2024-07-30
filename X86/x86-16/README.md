@@ -21,4 +21,5 @@ tools
 tutorials
 ---------
 
+* [guide to debug](https://thestarman.pcministry.com/asm/debug/debug.htm) - starman
 * [learn x86 asm](http://www.infinitefactors.org/jonk/x86lrn.html) - jonk
