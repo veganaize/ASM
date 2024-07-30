@@ -4,3 +4,11 @@
   - [Offline (ZIPs)](https://www.cs.cmu.edu/~ralf/files.html) <img src="https://user-images.githubusercontent.com/7102064/162549912-5943e669-2e80-4ad4-8f11-5abfef171558.png" width="16px" />
 * [PC DOS 7 Technical Update](https://web.archive.org/web/20060721115437id_/http://www.redbooks.ibm.com/redbooks/pdfs/gg244459.pdf) - 1995 IBM
 * [PC DOS Retro](https://pcdosretro.github.io/) - Vernon Brooks
+
+
+tools
+-----
+
+* [a86](http://eji.com/a86/) - assembler & debugger
+* [japheth](https://www.japheth.de/) - ([debug/x](https://www.japheth.de/debxxf.html) | [jwasm](https://www.japheth.de/JWasm.html) | [jwlink](https://www.japheth.de/JWlink.html))
+* [Microsoft linker for DOS](http://web.archive.org/web/20120315023048id_/http://download.microsoft.com/download/vc15/Update/1/WIN98/EN-US/Lnk563.exe)
