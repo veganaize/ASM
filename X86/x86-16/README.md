@@ -16,3 +16,9 @@ tools
   - masm 6.11d (`98ddk/bin/win98/ml.exe` after install)
       - [98setup](http://web.archive.org/web/20010413193816id_/http://www.microsoft.com/ddk/download/98/98SETUP.EXE)
       - [bins_ddk](http://web.archive.org/web/20030204011521id_/http://www.microsoft.com/ddk/download/98/BINS_DDK.EXE)
+
+
+tutorials
+---------
+
+* [learn x86 asm](http://www.infinitefactors.org/jonk/x86lrn.html) - jonk
