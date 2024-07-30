@@ -22,3 +22,9 @@ _Misc_
   - [x86 Instruction Reference](http://ref.x86asm.net/index.html)
   - [Articles](http://x86asm.net/articles/index.html)
 * [Streaming SIMD Extensions (SSE)](https://wiki.osdev.org/SSE)
+
+
+---
+
+_OS_
+* [boot records revealed](https://thestarman.pcministry.com/asm/mbr/index.html) - starman
