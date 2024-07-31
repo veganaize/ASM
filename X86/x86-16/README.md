@@ -3,7 +3,7 @@
   - [Online (HTML)](http://ctyme.com/rbrown.htm) <img src="http://www.galacticempiredatabank.com/netscapeicon.gif" width="16px" />
   - [Offline (ZIPs)](https://www.cs.cmu.edu/~ralf/files.html) <img src="https://user-images.githubusercontent.com/7102064/162549912-5943e669-2e80-4ad4-8f11-5abfef171558.png" width="16px" />
 * [PC DOS 7 Technical Update](https://web.archive.org/web/20060721115437id_/http://www.redbooks.ibm.com/redbooks/pdfs/gg244459.pdf) - 1995 IBM
-* [PC DOS Retro](https://pcdosretro.github.io/) - Vernon Brooks
+* [PC DOS Retro](https://web.archive.org/web/20220409140952/https://sites.google.com/site/pcdosretro/) - Vernon Brooks (PC DOS lead developer at IBM) _[[last archive before site delete](https://github.com/pcdosretro/PCDOSRetro.github.io/archive/6d227bc49a8f0aeaed394782e494d7caa041ef1f.zip)]_
 
 
 tools
