@@ -1,3 +1,7 @@
+x86 (16-bit)
+============
+
+* [86 Assembly Language Reference Guide](http://bitsavers.informatik.uni-stuttgart.de/components/intel/8086/9800749-1_MCS-86_Assembly_Language_Reference_Guide_Oct78.pdf)
 * [Art of Assembly Language](https://www.phatcode.net/res/223/files/html/toc.html) - Randall Hyde
 * Ralph Brown's Interrupt List:
   - [Online (HTML)](http://ctyme.com/rbrown.htm) <img src="http://www.galacticempiredatabank.com/netscapeicon.gif" width="16px" />
