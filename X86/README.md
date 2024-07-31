@@ -11,6 +11,7 @@ Reference
   - [X86 Assembly](https://en.wikibooks.org/wiki/X86_Assembly) - wikibook
 * _Books_
   - [Documentation for Intel Processors](https://www.ardent-tool.com/CPU/Docs_Intel.html) - ardent
+  - [Microsoft MASM 6.1 Reference Guide](http://www.mwftr.com/uC12/MASMReference.pdf) - csci
 
 
 Optimizations
@@ -35,3 +36,5 @@ OS
 ---
 
 * [boot records revealed](https://thestarman.pcministry.com/asm/mbr/index.html) - starman
+* [286 Operating Systems Writer's Guide](http://web.archive.org/web/20210727055450id_/http://bitsavers.informatik.uni-stuttgart.de/components/intel/_dataBooks/1983_iAPX_286_Operating_System_Writers_Guide.pdf)
+* [386 System Software Writer's Guide](https://www.ardent-tool.com/CPU/docs/Intel/386/manuals/231499-001.pdf)
