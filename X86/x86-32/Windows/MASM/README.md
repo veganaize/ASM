@@ -37,6 +37,9 @@ jwlink format windows pe [ runtime windows ] file binary.obj
 * [JWasm](https://www.japheth.de/JWasm.html) (MASM compatible w/ AVX support)
 * [JWlink](https://www.japheth.de/JWlink.html)
 * [WinInc](https://www.japheth.de/WinInc.html)
+* Manuals
+  - [Intel SSE4 Programming Reference](https://www.intel.com/content/dam/develop/external/us/en/documents/d9156103-705230.pdf)
+  - [Advanced Vector Extensions (AVX)](https://hpc.llnl.gov/sites/default/files/intelAVXintro.pdf)
 
 ---
 
