@@ -11,7 +11,7 @@ Reference
   - [X86 Assembly](https://en.wikibooks.org/wiki/X86_Assembly) - wikibook
 * _Books_
   - [Documentation for Intel Processors](https://www.ardent-tool.com/CPU/Docs_Intel.html) - ardent
-  - [Microsoft MASM 6.1 Reference Guide](http://www.mwftr.com/uC12/MASMReference.pdf) - csci
+  - [Microsoft MASM 6.1 Documentation](http://bitsavers.informatik.uni-stuttgart.de/pdf/microsoft/masm/Microsoft_MASM_6.1_1992/) - bitsavers
 
 
 Optimizations
