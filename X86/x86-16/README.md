@@ -22,7 +22,8 @@ tools
   - [masm 6.11d](http://web.archive.org/web/20030204011521id_/http://www.microsoft.com/ddk/download/98/BINS_DDK.EXE)
     1. Open `BINS_DDK.EXE` archive, and then `Bins_ddk.cab`, with 7-Zip.
     2. Extract `BIN_WIN98_ML.*`, and rename to `ML.*`.
-  - [masm 6.1 documentation](http://bitsavers.informatik.uni-stuttgart.de/pdf/microsoft/masm/Microsoft_MASM_6.1_1992/)
+  - [masm 6.1 programmer's guide](http://web.archive.org/web/20220328033823id_/https://staffwww.fullcoll.edu/zding/fc241/files/MASM61PROGUIDE.pdf) - small / lightweight pdf version
+  - [masm 6.1 reference guide](http://www.mwftr.com/uC12/MASMReference.pdf) - small / lightweight pdf version
 
 
 tutorials
