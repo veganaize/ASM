@@ -11,7 +11,7 @@ jwlink format windows pe [ runtime windows ] file binary.obj
 ---
 
 * [32-bit Assembler is Easy](https://winasm.org/32bit-assembler-is-easy.html) - winasm.org
-* [MASM ProGuide](http://staffwww.fullcoll.edu/zding/fc241/files/MASM61PROGUIDE.pdf) (PDF)
+* [MASM 6.1 Manuals](https://dl-alt1.winworldpc.com/Microsoft%20Macro%20Assembler%206.1%20Manuals.7z) - winworldpc.com
 * [MASM Wiki](https://wiki.osdev.org/MASM) - OSDev
 ---
 
