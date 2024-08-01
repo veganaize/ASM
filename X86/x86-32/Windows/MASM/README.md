@@ -20,7 +20,6 @@ jwlink format windows pe [ runtime windows ] file binary.obj
 * [ML.EXE](https://archive.org/download/vcpp5/vcpp5.exe) (MASM 6.15 w/ SSE2 support)
 * [LINK.EXE](https://virtuallyfun.com/wordpress/category/venixress/category/visual-c-toolkit-2003/) (Visual C++ 2003 Toolkit)
 * [Win32 libs](https://winworldpc.com/download/3d03c2ad-c2ad-18c3-9a11-c3a4e284a2ef) (NT4 SDK)
-
 * Intel Pentium 4 Manuals (w/ SSE2)
   - [Volume 1: Basic Architecture](https://stuff.mit.edu/afs/sipb/contrib/doc/specs/ic/cpu/x86/pentium-4/24547008.pdf)
   - [Volume 2: Instruction Set Reference](https://stuff.mit.edu/afs/sipb/contrib/doc/specs/ic/cpu/x86/pentium-4/24547108.pdf)
