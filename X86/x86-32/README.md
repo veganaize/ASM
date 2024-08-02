@@ -20,3 +20,8 @@ reference
   - [Volume 1: Basic Architecture](https://stuff.mit.edu/afs/sipb/contrib/doc/specs/ic/cpu/x86/pentium-iii/ia32-1.pdf)
   - [Volume 2: Instruction Set Reference](https://stuff.mit.edu/afs/sipb/contrib/doc/specs/ic/cpu/x86/pentium-iii/ia32-2.pdf)
   - [Volume 3: System Programming](https://stuff.mit.edu/afs/sipb/contrib/doc/specs/ic/cpu/x86/pentium-iii/ia32-3.pdf)
+  - [Intel® Architecture Optimization Reference Manual](https://stuff.mit.edu/afs/sipb/contrib/doc/specs/ic/cpu/x86/pentium-iii/opt.pdf)
+  - [I/O Advanced Programmable Interrupt Controller (IOAPIC)](https://stuff.mit.edu/afs/sipb/contrib/doc/specs/ic/cpu/x86/pentium-iii/ioapic.pdf)
+  - [Host Bridge/Controller (original datasheet)](https://stuff.mit.edu/afs/sipb/contrib/doc/specs/ic/cpu/x86/pentium-iii/440bx-hbc.pdf)
+  - [Host Bridge/Controller (spec update)](https://stuff.mit.edu/afs/sipb/contrib/doc/specs/ic/cpu/x86/pentium-iii/440bx-hbc-fix.pdf)
+
