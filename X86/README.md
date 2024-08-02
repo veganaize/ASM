@@ -37,3 +37,4 @@ OS
 * [286 Operating Systems Writer's Guide](http://web.archive.org/web/20210727055450id_/http://bitsavers.informatik.uni-stuttgart.de/components/intel/_dataBooks/1983_iAPX_286_Operating_System_Writers_Guide.pdf) - intel
 * [386 System Software Writer's Guide](https://www.ardent-tool.com/CPU/docs/Intel/386/manuals/231499-001.pdf) - intel
 * [AMD64 Programmer's Manual: System Programming](https://www.amd.com/content/dam/amd/en/documents/processor-tech-docs/programmer-references/24593.pdf) - amd
+* [Intel Developer's Manual: System Programming Guide](http://web.archive.org/web/20240802040216/https://cdrdv2-public.intel.com/825749/325384-sdm-vol-3abcd.pdf) - intel
