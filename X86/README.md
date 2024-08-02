@@ -12,8 +12,9 @@ Reference
   - [X86 Calling Conventions](https://en.wikipedia.org/wiki/X86_calling_conventions) - wikipedia
   - [X86 Opcode and Instruction Reference](http://ref.x86asm.net/index.html) - mazegen
 * _Official Docs_
-  - [Documentation for Intel Processors](https://www.ardent-tool.com/CPU/Docs_Intel.html) - ardent
-  - [Microsoft MASM 6.1 Documentation](http://bitsavers.informatik.uni-stuttgart.de/pdf/microsoft/masm/Microsoft_MASM_6.1_1992/) - bitsavers
+  - [Intel Developer Docs (current)](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html) - intel
+  - [Intel Developer Docs (past)](https://www.ardent-tool.com/CPU/Docs_Intel.html) - ardent
+  - [Microsoft MASM 6.1 Documentation (loose; bloated)](http://bitsavers.informatik.uni-stuttgart.de/pdf/microsoft/masm/Microsoft_MASM_6.1_1992/) - bitsavers
   - [CPUID Specification](https://www.amd.com/content/dam/amd/en/documents/archived-tech-docs/design-guides/25481.pdf) - amd
 * _Optimization_
   - [Optimizing Assembly](https://www.agner.org/optimize/optimizing_assembly.pdf) - agner fog
