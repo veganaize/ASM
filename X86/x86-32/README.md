@@ -16,7 +16,7 @@ reference
 ---------
 
 * [i386 Programmer's Manual](https://css.csail.mit.edu/6.858/2015/readings/i386.pdf) - 1986 (PDF) ([HTML](https://www.ardent-tool.com/CPU/docs/Intel/386/manuals/prref386/toc.htm)) ([TXT](https://www.ardent-tool.com/CPU/docs/Intel/386/manuals/prref386.txt))
-* Pentium Pro Family Developer's Manual - 1995 (PDF)
-  - [Volume 1: Specifications](https://stuff.mit.edu/afs/sipb/contrib/doc/specs/ic/cpu/x86/pentium-pro/vol1.pdf)
-  - [Volume 2: Programmer's Reference Manual](https://stuff.mit.edu/afs/sipb/contrib/doc/specs/ic/cpu/x86/pentium-pro/vol2.pdf)
-  - [Volume 3: Operating System Writer's Guide](https://stuff.mit.edu/afs/sipb/contrib/doc/specs/ic/cpu/x86/pentium-pro/vol3.pdf)
+* P6 Family Developer's Manual - 1999 (PDF)
+  - [Volume 1: Basic Architecture](https://stuff.mit.edu/afs/sipb/contrib/doc/specs/ic/cpu/x86/pentium-iii/ia32-1.pdf)
+  - [Volume 2: Instruction Set Reference](https://stuff.mit.edu/afs/sipb/contrib/doc/specs/ic/cpu/x86/pentium-iii/ia32-2.pdf)
+  - [Volume 3: System Programming](https://stuff.mit.edu/afs/sipb/contrib/doc/specs/ic/cpu/x86/pentium-iii/ia32-3.pdf)
