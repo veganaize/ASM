@@ -23,7 +23,7 @@ tools
     1. Open `BINS_DDK.EXE` archive, and then `Bins_ddk.cab`, with 7-Zip.
     2. Extract `BIN_WIN98_ML.*`, and rename to `ML.*`.
   - [masm 6.1 programmer's guide](http://web.archive.org/web/20220328033823id_/https://staffwww.fullcoll.edu/zding/fc241/files/MASM61PROGUIDE.pdf) - small / lightweight pdf version
-  - [masm 6.1 reference guide](http://www.mwftr.com/uC12/MASMReference.pdf) - small / lightweight pdf version
+  - [masm 6.1 reference guide](http://web.archive.org/web/20240802220532id_/http://www.mwftr.com/uC12/MASMReference.pdf) - small / lightweight pdf version
   - [p5 programming manual](https://stuff.mit.edu/afs/sipb/contrib/doc/specs/ic/cpu/x86/pentium/vol3.pdf) - 6.11d supports through .586/P
   - [p5 optimization manual](https://www.ardent-tool.com/CPU/docs/Intel/IA/242816-000.pdf) - 6.11d supports through .586/P
 
