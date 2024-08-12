@@ -38,6 +38,7 @@ tools
 tutorials
 ---------
 
+* [debug.com tutorial](https://www.plumb.org/tekmage/Inspire/debug-manual.html) - inspire
 * [guide to debug](https://thestarman.pcministry.com/asm/debug/debug.htm) - starman
 * [learn x86 asm](http://www.infinitefactors.org/jonk/x86lrn.html) - jonk
 * [removing mystery from segment : offset](https://thestarman.pcministry.com/asm/debug/Segments.html) - starman
