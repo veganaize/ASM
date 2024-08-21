@@ -44,3 +44,4 @@ tutorials
 * [removing mystery from segment : offset](https://thestarman.pcministry.com/asm/debug/Segments.html) - starman
 * [dos stub program](https://thestarman.pcministry.com/asm/debug/DOSstub.htm) - starman
 * [programming with dos debug](https://susam.net/programming-with-dos-debugger.html) - susam
+* [zen of asm](http://www.jagregory.com/abrash-zen-of-asm/) - a tutorial in high-performance assembler code, abrash
