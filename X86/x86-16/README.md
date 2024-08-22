@@ -38,6 +38,8 @@ tools
 tutorials
 ---------
 
+* [the 8088 architecture](https://people.cs.umass.edu/~verts/cmpsci201/spr_2004/Lecture_03_2004-02-02_The_8088_processor.pdf) - umass.edu, verts
+* [the intel 8088 architecture and instruction set](https://people.ece.ubc.ca/~edc/464/lectures/lec4.pdf) - ubc.ca
 * [debug.com tutorial](https://www.plumb.org/tekmage/Inspire/debug-manual.html) - inspire
 * [guide to debug](https://thestarman.pcministry.com/asm/debug/debug.htm) - starman
 * [learn x86 asm](http://www.infinitefactors.org/jonk/x86lrn.html) - jonk
