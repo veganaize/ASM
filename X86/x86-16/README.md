@@ -26,7 +26,7 @@ tools
   - [link 5.60.339](http://web.archive.org/web/20120315023048id_/http://download.microsoft.com/download/vc15/Update/1/WIN98/EN-US/Lnk563.exe) - 16-bit DOS linker
     1. Open `Lnk563.exe` archive with 7-Zip.
     2. Extract at least `LINK.EXE`.
-  - [masm 6.11d](http://web.archive.org/web/20030204011521id_/http://www.microsoft.com/ddk/download/98/BINS_DDK.EXE)
+  - [masm 6.11d](http://web.archive.org/web/20030204011521id_/http://www.microsoft.com/ddk/download/98/BINS_DDK.EXE) - last version to run on DOS
     1. Open `BINS_DDK.EXE` archive, and then `Bins_ddk.cab`, with 7-Zip.
     2. Extract `BIN_WIN98_ML.*`, and rename to `ML.*`.
   - [masm 6.1 programmer's guide](http://web.archive.org/web/20220328033823id_/https://staffwww.fullcoll.edu/zding/fc241/files/MASM61PROGUIDE.pdf) - small / lightweight pdf version
