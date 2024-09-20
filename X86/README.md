@@ -38,6 +38,7 @@ Misc
 * [Articles](http://x86asm.net/articles/index.html) - mazegen
 * [Streaming SIMD Extensions (SSE)](https://wiki.osdev.org/SSE) - osdev
 * [IBM Enhanced Graphics Adapter (EGA)](https://minuszerodegrees.net/oa/OA%20-%20IBM%20Enhanced%20Graphics%20Adapter.pdf) - manual (pdf)
+* [xchg rax,rax](https://www.xorpd.net/pages/xchg_rax/snip_00.html) - xorpd
 
 
 OS
