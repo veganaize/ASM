@@ -6,7 +6,7 @@
 * [6502 Opcodes](http://www.6502.org/tutorials/6502opcodes.html) - 6502.org
 * [65C02 Opcodes](http://www.6502.org/tutorials/65c02opcodes.html) - 6502.org
 * [65C02 Opcode matrix](http://www.oxyron.de/html/opcodesc02.html) - oxyron.de
-* [WDC 65C02S Opcodes](https://www.pagetable.com/c64ref/6502/?cpu=65c02s) - Ultimate Commodore 64 Reference
+* [6502 Instructions](https://www.pagetable.com/c64ref/6502/?tab=2) - Ultimate Commodore 64 Reference
 * [65C02 Instruction Reference](https://cx16.dk/65c02/reference.html) - cx16.dk
 * [Easy 6502](https://skilldrick.github.io/easy6502/) - skilldrick
 * [EOR #$FF: 6502 Ponderables and Befuddlements](https://ia904606.us.archive.org/26/items/eor6502/eorBookV1.0.1_ebookRelease.pdf) - david youd
