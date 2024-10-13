@@ -2,7 +2,8 @@ x86 (64-bit)
 ============
 
 * [x86 Assembly, 64 bit](https://aaronbloomfield.github.io/pdr/book/x86-64bit-asm-chapter.pdf) - ferrari et al.
-
+* [x86_64 NASM Assembly Quick Reference ("Cheat Sheet")](https://www.cs.uaf.edu/2017/fall/cs301/reference/x86_64.html)
+* [x86-64 Reference Sheet](https://web.stanford.edu/class/cs107/resources/x86-64-reference.pdf) - stanford, cs107
 
 AMD64 Architecture Programmer's Manual
 --------------------------------------
