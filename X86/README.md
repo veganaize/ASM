@@ -18,6 +18,7 @@ Reference
   - [X86 Assembly Language](https://en.wikipedia.org/wiki/X86_assembly_language) - wikipedia
   - [X86 Assembly](https://en.wikibooks.org/wiki/X86_Assembly) - wikibook
   - [X86 Calling Conventions](https://en.wikipedia.org/wiki/X86_calling_conventions) - wikipedia
+  - [Calling Conventions - Cheat Sheet](https://wiki.osdev.org/Calling_Conventions#Cheat_Sheets) - osdev
   - [X86 Opcode and Instruction Reference](http://ref.x86asm.net/index.html) - mazegen
 * _Official Docs_
   - [Intel Developer Docs (current)](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html) - intel
