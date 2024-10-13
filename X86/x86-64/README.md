@@ -1,6 +1,8 @@
 x86 (64-bit)
 ============
 
+* [x86 Assembly, 64 bit](https://aaronbloomfield.github.io/pdr/book/x86-64bit-asm-chapter.pdf) - ferrari et al.
+
 
 AMD64 Architecture Programmer's Manual
 --------------------------------------
