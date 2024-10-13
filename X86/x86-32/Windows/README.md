@@ -7,4 +7,6 @@
 * [Windows 7 API Reference](https://learn.microsoft.com/en-us/previous-versions//aa383749(v=vs.85)) - Microsoft
 * [Windows Data Types](https://docs.microsoft.com/en-us/windows/win32/winprog/windows-data-types) - Microsoft
 * [Win32 PE Format](https://docs.microsoft.com/en-us/windows/win32/debug/pe-format) - Microsoft
-* [Calling Conventions](https://docs.microsoft.com/en-us/cpp/cpp/calling-conventions) - Microsoft
+* [Calling Conventions](https://learn.microsoft.com/en-us/cpp/cpp/calling-conventions?view=msvc-160) - Microsoft
+  - [`__cdecl`](https://learn.microsoft.com/en-us/cpp/cpp/cdecl?view=msvc-160)
+  - [`__stdcall`](https://learn.microsoft.com/en-us/cpp/cpp/stdcall?view=msvc-160)
