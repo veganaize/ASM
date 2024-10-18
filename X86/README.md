@@ -36,6 +36,7 @@ Reference
 Misc
 ----
 
+* [A Tour of the Pentium® Pro Processor Microarchitecture](https://web.archive.org/web/19961220080210id_/http://www.intel.com/procs/ppro/info/p6white/index.htm) - intel
 * [Articles](http://x86asm.net/articles/index.html) - mazegen
 * [Streaming SIMD Extensions (SSE)](https://wiki.osdev.org/SSE) - osdev
 * [IBM Enhanced Graphics Adapter (EGA)](https://minuszerodegrees.net/oa/OA%20-%20IBM%20Enhanced%20Graphics%20Adapter.pdf) - manual (pdf)
