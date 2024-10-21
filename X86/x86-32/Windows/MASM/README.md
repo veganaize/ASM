@@ -56,6 +56,7 @@ Reference
 =========
 
 * [32-bit Assembler is Easy](https://winasm.org/32bit-assembler-is-easy.html) - winasm.org
+* [40 Basic Practices in Assembly Language Programming](http://web.archive.org/web/20190131114244/https://www.codeproject.com/Articles/1116188/40-Basic-Practices-in-Assembly-Language-Programmin?display=Print) - codeproject
 * [MASM 6.1 Manuals](https://dl-alt1.winworldpc.com/Microsoft%20Macro%20Assembler%206.1%20Manuals.7z) - winworldpc.com
 * [MASM Wiki](https://wiki.osdev.org/MASM) - OSDev
 
