@@ -43,6 +43,7 @@ tutorials
 * [debug.com tutorial](https://www.plumb.org/tekmage/Inspire/debug-manual.html) - inspire
 * [guide to debug](https://thestarman.pcministry.com/asm/debug/debug.htm) - starman
 * [learn x86 asm](http://www.infinitefactors.org/jonk/x86lrn.html) - jonk
+* [assembly language tutorial](http://web.archive.org/web/20150919151745id_/http://www.csc.depauw.edu/~bhoward/asmtut/asmtut_contents.html) - nasm leaning, howard
 * [removing mystery from segment : offset](https://thestarman.pcministry.com/asm/debug/Segments.html) - starman
 * [dos stub program](https://thestarman.pcministry.com/asm/debug/DOSstub.htm) - starman
 * [programming with dos debug](https://susam.net/programming-with-dos-debugger.html) - susam
